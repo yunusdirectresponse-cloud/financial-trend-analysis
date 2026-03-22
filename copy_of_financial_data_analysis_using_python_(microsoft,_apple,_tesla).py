@@ -3,7 +3,7 @@
 This project analyzes financial data from Microsoft, Apple, and Tesla over three years.
 
 The goal is to identify growth trends in revenue and profitability, and generate insights that could support decision-making in an AI-powered financial system.
-"""
+
 
 
 
